@@ -1,5 +1,10 @@
 # Repository-Umfang und Pflege
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Dieses Repository enthält das SysML-v2-Modell eines mobilen Materialtransportroboters
 und die zugehörigen technischen Entwicklungsartefakte.
 

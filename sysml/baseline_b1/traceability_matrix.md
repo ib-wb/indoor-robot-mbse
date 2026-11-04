@@ -1,5 +1,10 @@
 # Traceability Matrix - Iteration B / Baseline B.1
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 | Use Case | Candidate Requirements | Verification idea | Related Open Issues |
 | --- | --- | --- | --- |
 | UC-B-001 | REQ-B-MIS-001, REQ-B-UI-001, REQ-B-STA-001 | Web-app order tests | OI-UI-001 |

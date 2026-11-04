@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot {
   doc /*
   Compatibility facade for the earlier sketch. These are aliases/imports of

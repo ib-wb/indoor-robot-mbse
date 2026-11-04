@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot_BaselineA1 {
   public import MobileMaterialRobot_Structure_A1::MobileMaterialRobot;
   public import MobileMaterialRobot_Context_A1::SystemContext;

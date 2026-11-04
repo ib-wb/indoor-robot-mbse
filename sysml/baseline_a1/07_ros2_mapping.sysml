@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot_ROS2Mapping_A1 {
   doc /*
   Preliminary ROS2 mapping for later implementation work.

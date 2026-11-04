@@ -1,5 +1,10 @@
 # Technische Umsetzung des SysML-Modells
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Ausgangspunkt
 
 Die logische Architektur trennt Verantwortlichkeiten für Mission, Navigation,

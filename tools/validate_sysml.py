@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Wolfgang Becker
+# SPDX-License-Identifier: Apache-2.0
+
 """Reproducible model checks using the unmodified official Pilot Implementation.
 
 Downloads only a public, SHA-256-pinned tool release. Model data stays local.

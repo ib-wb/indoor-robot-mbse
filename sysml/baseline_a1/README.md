@@ -1,5 +1,10 @@
 # SysML v2 Baseline A.1
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Verbindliche Struktur
 
 Es gibt genau eine Definition des Robotertyps:

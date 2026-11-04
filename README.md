@@ -1,5 +1,10 @@
 # Indoor Robot MBSE
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Dieses Repository begleitet die modellbasierte Entwicklung eines mobilen
 Materialtransportroboters: vom SysML-v2-Modell über nachvollziehbare
 Architekturentscheidungen bis zur späteren Umsetzung in Software und Hardware.
@@ -59,4 +64,15 @@ Simulator, Rechnerplattform, Sensorik, Antrieb und Energiekonfiguration bleiben
 offen. Neue Implementierungen sollen die vorhandenen Anforderungen,
 Schnittstellen und Verifikationsideen referenzieren.
 
-Eine Lizenz für dieses Repository ist noch nicht festgelegt.
+## Lizenzen
+
+Copyright © 2026 Wolfgang Becker.
+
+- **Apache-2.0** für die SysML-Modelldateien, den Programmcode und die
+  technischen Konfigurationsdateien.
+- **CC BY 4.0** für die Dokumentation einschließlich README-Dateien und
+  Traceability-Tabellen in Markdown.
+
+Die genaue Zuordnung und die vollständigen Lizenztexte stehen in
+[LICENSING.md](LICENSING.md). Diese Freigabe umfasst ausschließlich die
+entsprechend gekennzeichneten Inhalte dieses Repositorys.

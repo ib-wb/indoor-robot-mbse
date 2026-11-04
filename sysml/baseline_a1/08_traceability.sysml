@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot_Traceability_A1 {
   doc /*
   Planned responsibilities from the review matrix, now resolved model links.

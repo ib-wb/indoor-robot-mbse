@@ -1,8 +1,14 @@
-# Explicitly reviewed files for the initial technical publication.
+# SPDX-FileCopyrightText: 2026 Wolfgang Becker
+# SPDX-License-Identifier: Apache-2.0
+
+# Explicitly reviewed files for the public technical repository.
 .gitattributes
 .github/workflows/sysml.yml
 .gitignore
 .publication-files.txt
+LICENSE
+LICENSES/CC-BY-4.0.txt
+LICENSING.md
 README.md
 docs/model-validation.md
 docs/operational-pause.md

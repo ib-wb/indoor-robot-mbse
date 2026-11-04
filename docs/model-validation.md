@@ -1,5 +1,10 @@
 # Modellbereinigung und Pruefung, 28.10.2026
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Ausgangspunkt und Umfang
 
 Dieses Dokument beschreibt den uebernommenen technischen Modellstand vom

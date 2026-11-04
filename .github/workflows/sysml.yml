@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Wolfgang Becker
+# SPDX-License-Identifier: Apache-2.0
+
 name: SysML model validation
 on:
   pull_request:

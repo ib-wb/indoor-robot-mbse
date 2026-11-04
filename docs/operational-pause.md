@@ -1,5 +1,10 @@
 # Bestaetigte Pausenregel, 28.10.2026
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Festgelegte Regel: Ein betrieblicher Stopp pausiert den laufenden
 Transportauftrag. Fortsetzung nur nach manueller Freigabe.
 

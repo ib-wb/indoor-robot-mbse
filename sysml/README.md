@@ -1,5 +1,10 @@
 # SysML-v2-Gesamtmodell
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Das aktuelle Modell wird als kompletter Ordner `sysml` geladen.
 
 - `baseline_a1/`: Systemkontext, kanonische Architektur, Requirements,

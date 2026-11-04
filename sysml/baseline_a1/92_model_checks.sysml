@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot_ModelChecks_A1 {
   private import MobileMaterialRobot_Verification_A1::TC_NAV_002;
   private import MobileMaterialRobot_Verification_A1::TC_UI_003;

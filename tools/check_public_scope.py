@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Wolfgang Becker
+# SPDX-License-Identifier: Apache-2.0
+
 """Reject files outside the reviewed publication list before pushing."""
 from pathlib import Path
 import subprocess

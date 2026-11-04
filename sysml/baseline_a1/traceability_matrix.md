@@ -1,5 +1,10 @@
 # Traceability Matrix - Mobile Material Robot Baseline A.1
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 | Requirement | Need / Source | SysML Element | Interface / ROS2 Element | Test | Status |
 | --- | --- | --- | --- | --- | --- |
 | REQ-MIS-001 | SN-UI-001, UC-001 | MissionSystem | IF-002, MissionManagerNode | TC-UI-001 | Planned; no execution evidence |

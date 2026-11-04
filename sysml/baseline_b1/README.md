@@ -1,5 +1,10 @@
 # SysML v2 Baseline B.1
 
+<!--
+SPDX-FileCopyrightText: 2026 Wolfgang Becker
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Candidate Requirements und Use Cases fuer Iteration B.
 
 - `01_use_cases.sysml`: zehn echte `use case def` mit kanonischem

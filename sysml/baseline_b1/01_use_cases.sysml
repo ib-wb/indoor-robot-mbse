@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Wolfgang Becker
+// SPDX-License-Identifier: Apache-2.0
+
 package MobileMaterialRobot_UseCases_B1 {
   private import MobileMaterialRobot_Structure_A1::MobileMaterialRobot;
   private import MobileMaterialRobot_Context_A1::HumanOperator;
