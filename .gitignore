@@ -1,0 +1,36 @@
+# Local configuration, credentials and generated files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# Tool runtimes and caches
+.cache/
+*.jar
+*.zip
+
+# Content outside this publication scope
+/chapters/
+/appendices/
+/bibliography/
+/config/
+/figures/
+/tables/
+/state/
+/main.tex
+/kicad/
+*.kicad_prl
+*.lck
+*.bak
+**/.history/
+**/.versions/

@@ -1,0 +1,21 @@
+name: SysML model validation
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check reviewed publication scope
+        run: python3 tools/check_public_scope.py
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Validate model, evaluate examples and reject broken links
+        run: python3 tools/validate_sysml.py --self-test --negative-tests
